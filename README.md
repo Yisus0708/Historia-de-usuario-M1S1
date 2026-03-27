@@ -18,7 +18,7 @@ A simple Python program that allows users to enter product data repeatedly, vali
 
 ▶️ How to Run
 
-python your_file.py
+python main.py
 
 ---
 
